@@ -1,8 +1,8 @@
-<img align='right' src="https://github.com/RuzKate/RuzKate/blob/main/jpg/photo.jpg?raw=true" width="300">
+<img align='right' src="https://github.com/RuzKate/RuzKate/blob/main/jpg/photo.png?raw=true" width="330">
 
 ### **Hi! I'm Katya!**
 
-Hi, my name is Katya. I work with data and everything related to it as a data engineer. 
+I work with data and everything related to it as a data engineer. 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ryz_kate)
 
@@ -11,6 +11,7 @@ Hi, my name is Katya. I work with data and everything related to it as a data en
 - [Data Mart](https://github.com/RuzKate/data_mart_de.git)
 - [Data management system](https://github.com/RuzKate/data_management_system.git)
 - [Build mirror](https://github.com/RuzKate/build_mirrior.git)
+- [Data Mart Greenplum](https://github.com/RuzKate/data_mart_gp.git)
 
 ***
 ### Languages and tools
@@ -21,6 +22,9 @@ Hi, my name is Katya. I work with data and everything related to it as a data en
 ![DBeaver](https://img.shields.io/badge/-DBeaver-382923?logo=dbeaver&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
 ***
 ### My stat
 
